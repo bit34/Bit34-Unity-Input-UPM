@@ -1,0 +1,7 @@
+{
+    "name": "com.bit34games.unity.input",
+    "displayName": "Bit34 - Unity Input Manager",
+    "version": "0.1.3",
+    "unity": "2018.4",
+    "description": "This is a minimal input library for Unity."
+}
