@@ -6,6 +6,6 @@
     "description": "This is a minimal input library for Unity.",
     "dependencies":
       {
-        "com.bit34games.unity.update": "https://github.com/bit34/Bit34-Unity-Update-UPM.git#v1.0.0",
+        "com.bit34games.unity.update": "https://github.com/bit34/Bit34-Unity-Update-UPM.git#v1.0.0"
       }
 }
